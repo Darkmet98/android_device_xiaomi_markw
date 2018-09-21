@@ -29,6 +29,7 @@
 
 #define BTM_WBS_INCLUDED TRUE
 #define BTA_DISABLE_DELAY 1000 /* in milliseconds */
+#undef PROPERTY_VALUE_MAX
 
 // Wide-band speech support
 #define BTIF_HF_WBS_PREFERRED TRUE
